@@ -1,6 +1,4 @@
-
-
-![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)(https://portfolio-avdheshbhardwajzs-projects.vercel.app/)]
+[![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)](https://portfolio-avdheshbhardwajzs-projects.vercel.app)
 
 
 
