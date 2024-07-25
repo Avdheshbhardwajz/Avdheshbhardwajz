@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://portfolio-avdheshbhardwajzs-projects.vercel.app/)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://portfolio-avdheshbhardwajzs-projects.vercel.app/)
 
 
 
 <h1 align="center">Hi 👋, I'm Avdhesh - Full Stack Developer & Software Engineer</h1>
 <h3 align="center">Solving Business Problems with Innovative Web-Based Solutions</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 - 🔭 I’m currently working on **Freelance Projects Based on Web**
 
