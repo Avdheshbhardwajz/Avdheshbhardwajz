@@ -4,7 +4,7 @@
 
 <h3 align="center">Solving Business Problems with Innovative Web-Based Solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
 
 - 🔭 I’m currently working on **Freelance Projects Based on Web**
 
